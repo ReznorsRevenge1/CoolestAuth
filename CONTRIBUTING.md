@@ -1,0 +1,2 @@
+# Contribution guidelines
+I'm doing this for [**Terra**](https://terra.hackclub.com/), a 12-week long event where teens can earn stuff for coding at least 10 hours per week (for 12 weeks), and thus I would like to maximize my coding hours for this. Instead of submitting pull requests, please submit feature-request issues, and I'll implement good suggestions myself. (**Terra** ends January 10, 2027! After that, <sup><sub>(assuming I choose to continue this project,)</sub></sup> I'll allow PRs and contributions in the traditional sense.) Thanks for understanding!
